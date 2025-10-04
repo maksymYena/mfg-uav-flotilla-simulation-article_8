@@ -58,3 +58,7 @@ This repository contains the simulation code, visualization tools, and comparati
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+## 📰 Article 
+https://visn-icct.uu.edu.ua/index.php/icct/article/view/184
